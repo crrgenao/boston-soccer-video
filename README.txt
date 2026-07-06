@@ -13,12 +13,16 @@ How to preview:
 2. Or run a simple local server from this folder and open the local preview URL.
 
 How to deploy on Netlify:
-1. Go to netlify.com/drop.
-2. Drag the entire boston_soccer_video_website folder into the upload area.
-3. Netlify will create a live website link.
+The site is connected to GitHub and Netlify:
+- GitHub repo: https://github.com/crrgenao/boston-soccer-video
+- Netlify site: https://courageous-starship-9d8900.netlify.app
+- Custom domain: https://bostonsoccervideo.com
+
+When changes are saved to the GitHub repo, Netlify publishes the live site automatically.
 
 What to edit later:
 - Booking form link: search for docs.google.com in index.html.
+- Contact email: search for bostonsoccervideo@gmail.com in index.html.
 - Pricing: search for $60, $110, $120, or $219 in index.html.
 - Facebook: add the URL near the footer comment in index.html.
 - Main colors: edit the variables at the top of styles.css.
